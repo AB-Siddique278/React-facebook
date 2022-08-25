@@ -1,6 +1,7 @@
 import React from 'react'
 import "../topbar/topbar.css"
 import { Link } from "react-router-dom";
+import ExitToAppIcon from '@material-ui/icons/ExitToApp';
 import { Search, Person, Chat, Notifications } from "@material-ui/icons";
 export default function Topbar() {
   return (
@@ -42,6 +43,18 @@ export default function Topbar() {
               <span className="topbarIconBadge">1</span>
             </div>
           </div>
+
+            <div>
+            
+            <Link to="/login">
+              
+              <ExitToAppIcon/> 
+              
+            </Link>
+            
+            
+            </div>
+            
 
           <Link to="/profile">
             <img src="/assets/person/1.jpeg" alt="" className="topbarImg" />

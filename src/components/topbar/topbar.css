@@ -22,9 +22,10 @@
     
   }
 
-  .logo a{
+  .topbarLeft a{
     text-decoration: none;
   }
+  
   .topbarCenter {
     flex: 5;
   }
