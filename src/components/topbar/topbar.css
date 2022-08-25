@@ -19,8 +19,12 @@
     font-weight: bold;
     color: white;
     cursor: pointer;
+    
   }
-  
+
+  .logo a{
+    text-decoration: none;
+  }
   .topbarCenter {
     flex: 5;
   }
