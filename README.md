@@ -2,6 +2,8 @@
 
 Live website link: [Live site ](https://react-facebook.netlify.app/).
 
+![React-Facebook](https://i.ibb.co/S5rrc5n/Capture1.png)
+
 ## All the technologies used 
 * This is a react websites
 * first of all create a react app[React Doc](https://reactjs.org/docs/create-a-new-react-app.html)
